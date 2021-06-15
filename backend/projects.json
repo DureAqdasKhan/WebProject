@@ -1,0 +1,213 @@
+[
+  {
+    "title": "Introduction to Computer Science and ..",
+    "uni": "MITx",
+    "type": "courses",
+    "image": "./images/co.jpg",
+    "uni_img": "./images/mit.png",
+    "cp": "Computer Science"
+  },
+  {
+    "title": "Excel for Everyone: Core Foundations",
+    "uni": "UBCx",
+    "image": "./images/cloud.jpg",
+    "uni_img": "./images/ubc.png",
+    "type": "Course",
+    "cp": "Intermediate"
+  },
+  {
+    "title": "Introduction To Music",
+    "uni": "MITx",
+    "image": "./images/music.jpg",
+    "uni_img": "./images/mit.png",
+    "type": "Course",
+    "cp": "Available"
+  },
+  {
+    "title": "Data Analytics Basics for Everyone",
+    "uni": "IBM",
+    "image": "./images/dataan.jpeg",
+    "uni_img": "./images/ibm.png",
+    "type": "courses",
+    "cp": "Introductory"
+  },
+  {
+    "title": "Introduction to Data Science",
+    "uni": "IBM",
+    "image": "./images/market.jpeg",
+    "uni_img": "./images/ibm.png",
+    "type": "courses",
+    "cp": "Introductory"
+  },
+  {
+    "title": "Marketing Digital: Content & Community...",
+    "uni": "GalileoX",
+    "image": "./images/abcd.jpg",
+    "uni_img": "./images/gali.png",
+    "type": "Course",
+    "cp": "Arts & Culture"
+  },
+  {
+    "title": "ILETS Academic Test Preparation",
+    "uni": "UQx",
+    "image": "./images/ielt.jpg",
+    "uni_img": "./images/up.png",
+    "type": "courses",
+    "cp": "Arts & Culture"
+  },
+  {
+    "title": "Programming for Everyone",
+    "uni": "RITX",
+    "image": "./images/prog.jpg",
+    "uni_img": "./images/rit.png",
+    "type": "courses",
+    "cp": "Computer Science"
+  },
+  {
+    "title": "Data Science Tools",
+    "uni": "NYU",
+    "image": "./images/tool.jpeg",
+    "uni_img": "./images/nyu.png",
+    "type": "courses",
+    "cp": "MicroBachelors Program"
+  },
+  {
+    "title": "Digital Marketing Strategy",
+    "uni": "CurtinX",
+    "image": "./images/digi.jpg",
+    "uni_img": "./images/curtin.png",
+    "type": "courses",
+    "cp": "MicroBachelors Program"
+  },
+  {
+    "title": "TOEFL Test Preparation: The Insider's..",
+    "uni": "ETSx",
+    "image": "./images/tofel.jpeg",
+    "uni_img": "./images/est.png",
+    "type": "courses",
+    "cp": "Arts & Culture"
+  },
+  {
+    "title": "CS50's Web Programming with Python and JavaScript",
+    "uni": "HavardX",
+    "image": "./images/web.jpg",
+    "uni_img": "./images/harvard.png",
+    "type": "courses",
+    "cp": "Computer Science"
+  },
+  {
+    "title": "Probability and Statistics in Data Science using Python",
+    "uni": "UCSanDiegoX",
+    "image": "./images/prob.jpeg",
+    "uni_img": "./images/gali.png",
+
+    "type": "courses",
+    "cp": "ACCA"
+  },
+  {
+    "title": "Project Management for Development",
+    "uni": "MITx",
+    "image": "./images/virus.jpg",
+    "uni_img": "./images/mit.png",
+    "type": "courses",
+    "cp": "Business & Management"
+  },
+  {
+    "title": "Analyzing Data with Excel",
+    "uni": "IBM",
+    "image": "./images/excel.jpg",
+    "uni_img": "./images/ibm.png",
+    "type": "courses",
+    "cp": "ACCA"
+  },
+  {
+    "title": "Analyzing Data with Python",
+    "uni": "IBM",
+    "image": "./images/pyth.jpg",
+    "uni_img": "./images/ibm.png",
+    "type": "courses",
+    "cp": "Computer Science"
+  },
+  {
+    "title": "SQL for Data Science",
+    "uni": "IDBx",
+    "image": "./images/sql.jpg",
+    "uni_img": "./images/ubc.png",
+    "type": "courses",
+    "cp": "Masters Degree Program"
+  },
+  {
+    "title": "Applied Scrum for Agile Project Management",
+    "uni": "NYU,USMx",
+    "image": "./images/scrum.jpg",
+    "uni_img": "./images/nyu.png",
+    "type": "courses",
+    "cp": "Masters Degree Program"
+  },
+  {
+    "title": "Language, Proof and Logic",
+    "uni": "SNHUx",
+    "image": "./images/proog.jpg",
+    "uni_img": "./images/snhu.png",
+    "type": "courses",
+    "cp": "Language"
+  },
+  {
+    "title": "The Architectural Imagination",
+    "uni": "Harvardx",
+    "image": "./images/arch.jpg",
+    "uni_img": "./images/harvard.png",
+    "type": "Course",
+    "cp": "Architecture"
+  },
+  {
+    "title": "Introduccion a los encofrados y las cimbras en obra civil y...",
+    "uni": "UPValenciaX",
+    "type": "Course",
+    "image": "./images/los.jpg",
+    "uni_img": "./images/nyu.png",
+    "cp": "Masters Degree Program"
+  },
+  {
+    "title": "Sustainability in Architecture: An Interdisciplinary Intro...",
+    "uni": "UPValenciaX",
+    "image": "./images/sus.jpg",
+    "type": "courses",
+    "cp": "Architecture"
+  },
+  {
+    "title": "Zero-Energy Design: an approach to make you building sustainable",
+    "uni": "DelftX",
+    "image": "./images/ener.jpg",
+    "type": "courses",
+    "cp": "Architecture"
+  },
+  {
+    "title": "Sustainable Cities",
+    "uni": "SDGAcademyX",
+    "image": "./images/cit.jpg",
+    "type": "Course",
+    "cp": "Architecture"
+  },
+  {
+    "title": "What do Architects and Urban Planners do?",
+    "uni": "WitsX",
+    "image": "./images/archi.png",
+    "type": "Course",
+    "cp": "Architecture"
+  },
+  {
+    "title": "Steps in Japenese for Beginners1 Part1",
+    "uni": "WasedaX",
+    "image": "./images/jap.jpeg",
+    "type": "Course",
+    "cp": "Arts&Culture"
+  },
+  {
+    "title": "Pyramids of Giza: Ancient Egyption Art and Arcaheology",
+    "uni": "HarvardX",
+    "image": "./images/pyra.jpeg",
+    "type": "Course",
+    "cp": "Arts&Culture"
+  }
+]

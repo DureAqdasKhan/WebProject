@@ -1,0 +1,76 @@
+[
+  {
+    "title": "Supply Chain Management",
+    "uni": "MITx",
+    "image": "./images/bg.jpg",
+    "uni_img": "./images/mit.png",
+    "type": "Micro Masters Program (6 courses)",
+
+    "cp": "Business & Management"
+  },
+  {
+    "title": "Introduction to Python",
+    "uni": "GTx",
+    "image": "./images/bg1.jpg",
+    "uni_img": "./images/geor.png",
+    "type": "Professional Certificate (6 courses)",
+    "cp": "Computer Science"
+  },
+  {
+    "title": "Business Analytics Foundations",
+    "uni": "SNHUx",
+    "image": "./images/bg2.jpg",
+    "uni_img": "./images/snhu.png",
+    "type": "Micro Bachelors Program (2 courses)",
+    "cp": "Computer Science"
+  },
+  {
+    "title": "Online MBA Degree Master of Business Administration",
+    "uni": "BUx",
+    "image": "./images/bg3.jpg",
+    "uni_img": "./images/bux.png",
+    "type": "Master's Degree Program",
+    "cp": "Masters Degree Program"
+  },
+  {
+    "title": "Art Design",
+    "uni": "MITx",
+    "image": "./images/picbg1.jpg",
+
+    "uni_img": "./images/mit.png",
+    "type": "Art Culture Program (6 courses)",
+    "cp": "Arts & Culture"
+  },
+  {
+    "title": "PredictionX",
+    "uni": "SNHUx",
+    "image": "./images/predc.jpg",
+    "uni_img": "./images/snhu.png",
+    "type": "Prediction Tech",
+    "cp": "Arts & Culture"
+  },
+  {
+    "title": "Design Culture",
+    "uni": "Harvardx",
+    "image": "./images/data.jpg",
+    "uni_img": "./images/harvard.png",
+    "type": "Designing Fashion ",
+    "cp": "Architecture"
+  },
+  {
+    "title": "Introduction to Arts",
+    "uni": "IBM",
+    "image": "./images/pbg2.jpg",
+    "uni_img": "./images/ibm.png",
+    "type": "Professional Arts (6 courses)",
+    "cp": "Arts & Culture"
+  },
+  {
+    "title": "Business Accountancy",
+    "uni": "SNHUx",
+    "image": "./images/pg3.jpg",
+    "uni_img": "./images/snhu.png",
+    "type": "Micro Bachelors Program (2 courses)",
+    "cp": "ACCA"
+  }
+]

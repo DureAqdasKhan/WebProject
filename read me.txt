@@ -1,0 +1,1 @@
+this is replica of Edx website. Frontend is developed with ReactJs whereas the backend of this project has been developed with NodeJs
